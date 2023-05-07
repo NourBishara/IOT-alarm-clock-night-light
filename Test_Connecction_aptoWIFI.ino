@@ -1,3 +1,7 @@
+//Describtion: use AP and server to allow user to connect and enter home wifi address and password. 
+//Connect to Wifi
+
+
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <WebServer.h>
