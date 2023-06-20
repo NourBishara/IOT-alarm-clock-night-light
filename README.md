@@ -21,13 +21,11 @@ Firstly, the user will connect the alarm clock to the internet. Afterwards, the 
 * Assets: 3D printed parts, Audio files used in this project
 
 # Arduino/ESP32 libraries used in this project:
-* HardwareSerial
-* WiFiManager
-* MD_Parola
-* MD_MAX72xx
-* WiFiClientSecure
-* UniversalTelegramBot
-* SPI
+* HardwareSerial - version 2.2.0
+* WiFiManager - version 2.0.16
+* MD_Parola - version 3.6.2
+* MD_MAX72xx - version 3.3.1
+* UniversalTelegramBot - version 1.3.0
 
 # Project Poster:![IOT Alarm Clock-8- IOT poster](https://github.com/NourBishara/IOT-alarm-clock-night-light/assets/128970723/13d7a6e0-67bd-48c6-9244-bc1260697224)
 
