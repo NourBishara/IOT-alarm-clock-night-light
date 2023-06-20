@@ -12,3 +12,19 @@ Firstly, the user will connect the alarm clock to the internet. Afterwards, the 
  1. Setting the alarm: The user can set an alarm for each day of the week. From a menu, they choose the day, then they choose at what time they wish to go to bed, and when the alarm should ring. They may also choose a ringtone from the menu that will be provided to them. Everynight, the clock will enter sleep mode, and turn off its display at bedtime, and ring at the requested time in the morning.The user needs to press the button on top of the clock to stop it from ringing.
  2. Statistics: The user can request their weekly bedtime statistics via telegram. They will be provided with the amount of hourse they slept each night, as well as their weekly average.
  3. Timer: The user can set a timer via telegram. The countdown (minutes, seconds) will appear on the display of the clock which will ring once it reaches 00:00. The user needs to press the button on top of the clock to stop it from ringing.
+
+# Folder description:
+* SP32: source code for the esp side (firmware).
+* Documentation: wiring diagram + basic operating instructions
+* Unit Tests: tests for individual hardware components (input / output devices)
+* Parameters: contains description of configurable parameters
+* Assets: 3D printed parts, Audio files used in this project
+
+# Arduino/ESP32 libraries used in this project:
+* HardwareSerial
+* WiFiManager
+* MD_Parola
+* MD_MAX72xx
+* WiFiClientSecure
+* UniversalTelegramBot
+* SPI
