@@ -29,8 +29,10 @@ Firstly, the user will connect the alarm clock to the internet. Afterwards, the 
 * UniversalTelegramBot
 * SPI
 
-# Project Poster:
-[IOT Alarm Clock-8- IOT poster.pdf](https://github.com/NourBishara/IOT-alarm-clock-night-light/files/11804846/IOT.Alarm.Clock-8-.IOT.poster.pdf)
+# Project Poster:![IOT Alarm Clock-8- IOT poster](https://github.com/NourBishara/IOT-alarm-clock-night-light/assets/128970723/13d7a6e0-67bd-48c6-9244-bc1260697224)
+
+
+
 
 
 This project is part of ICST - The Interdisciplinary Center for Smart Technologies, Taub Faculty of Computer Science, Technion https://icst.cs.technion.ac.il/
