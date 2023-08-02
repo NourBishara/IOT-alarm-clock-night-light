@@ -126,7 +126,7 @@ statistics weekStatistics[7];
 
 ///////////////////////////////////////TELEGRAM BOT
 //TelegramBot bot(BOT_TOKEN);
-#define BOT_TOKEN "5662253371:AAHIiLVljhpesYfw3JHmUb_KKiV4iZTX1ZU"
+#define BOT_TOKEN "XXXXXXXX:XXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 const unsigned long BOT_MTBS = 1000; // mean time between scan messages
 WiFiClientSecure secured_client;
 UniversalTelegramBot bot(BOT_TOKEN, secured_client);
