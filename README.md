@@ -13,6 +13,10 @@ Firstly, the user will connect the alarm clock to the internet. Afterwards, the 
  2. Statistics: The user can request their weekly bedtime statistics via telegram. They will be provided with the amount of hourse they slept each night, as well as their weekly average.
  3. Timer: The user can set a timer via telegram. The countdown (minutes, seconds) will appear on the display of the clock which will ring once it reaches 00:00. The user needs to press the button on top of the clock to stop it from ringing.
 
+# Alarm clock user instructions for setup:
+![IMG_49990FF1580C-1](https://github.com/NourBishara/IOT-alarm-clock-night-light/assets/128970723/fd214ef0-063a-4c84-b185-eaadf44607ed)
+
+
 # Folder description:
 * SP32: source code for the esp side (firmware).
 * Documentation: wiring diagram + basic operating instructions
@@ -26,6 +30,7 @@ Firstly, the user will connect the alarm clock to the internet. Afterwards, the 
 * MD_Parola - version 3.6.2
 * MD_MAX72xx - version 3.3.1
 * UniversalTelegramBot - version 1.3.0
+* ArduinoJson - version 6.21.2
 
 # Project Poster:![IOT Alarm Clock-8- IOT poster](https://github.com/NourBishara/IOT-alarm-clock-night-light/assets/128970723/13d7a6e0-67bd-48c6-9244-bc1260697224)
 
